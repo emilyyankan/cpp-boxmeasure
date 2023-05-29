@@ -8,3 +8,5 @@ This is a simple C++ program that calculates the volume and surface area of a bo
 <li>Enter the values for length, width, and height, separated by spaces, and press Enter.</li>
 <li>The program will calculate the volume and surface area of the box.</li>
 <li>The calculated results will be displayed on the console, showing the volume in cubic inches and the surface area in square inches. </li>
+
+<p>This repository contains open source code that can be used for various purposes. However, it is important to note that academic usage of this code is strictly prohibited. </p>
